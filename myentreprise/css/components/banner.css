@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(0deg, rgb(245, 232, 221, 0.8) 15%, rgb(245, 232, 221, 0.4) 40%), url(../../images/couverturelivre.jpeg);
+	color: black;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	font-weight: lighter ;
+	opacity: 0.8;
+	margin bottom:40px ;
+}
